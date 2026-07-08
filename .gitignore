@@ -1,0 +1,14 @@
+Typora_crack/
+excel_controler/
+day1_PDF2MD/MinerU/
+day1_PDF2MD/output/**
+day1_PDF2MD/resource/**
+day2_pageindex/resource/**
+day2_pageindex/resource_enhanced/**
+day2_pageindex/PageIndex/.env
+day2_pageindex/test/
+day2_pageindex/logs/
+day2_pageindex/frontend/node_modules/
+day2_pageindex/electron/node_modules/
+day2_pageindex/.venv/
+node_modules/

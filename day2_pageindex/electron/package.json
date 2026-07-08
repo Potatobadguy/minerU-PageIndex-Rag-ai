@@ -1,0 +1,16 @@
+{
+  "name": "pageindex-rag-agent-desktop",
+  "version": "1.0.0",
+  "description": "PageIndex RAG Agent 桌面应用",
+  "main": "main.js",
+  "author": "PageIndex Team",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev"
+  },
+  "devDependencies": {
+    "electron": "^33.2.1",
+    "electron-builder": "^25.1.8"
+  }
+}

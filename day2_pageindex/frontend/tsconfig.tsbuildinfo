@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/header.tsx","./src/components/inputbar.tsx","./src/components/kbinfobar.tsx","./src/components/markdownview.tsx","./src/components/messagebubble.tsx","./src/components/retrievalsteps.tsx","./src/components/sourcespanel.tsx","./src/components/uploadbutton.tsx"],"version":"5.9.3"}
